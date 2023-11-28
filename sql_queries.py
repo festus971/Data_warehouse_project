@@ -1,4 +1,4 @@
-# Import necessary libraries
+# Importing necessary libraries
 import configparser
 
 # Read configuration file
